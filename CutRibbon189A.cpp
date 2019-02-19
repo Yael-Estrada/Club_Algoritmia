@@ -1,5 +1,5 @@
-/*********	Codeforces	189A-"Cut Ribbon" 	DP algorithm ***********/
-/*********					Yael Estrada				 **********/
+/*********	Codeforces	189A-"Cut Ribbon" 	DP algorithm 	***********/
+/*********		    Yael Estrada				**********/
 
 #include<bits/stdc++.h>
 using namespace std;
