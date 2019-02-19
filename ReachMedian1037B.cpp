@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-/******* Codeforces 1037B "Reach Median" Greedy Algorithm *******/
-/*******		Yael Estrada 							  ******/
+/******* 	Codeforces 1037B "Reach Median" Greedy Algorithm 	*******/
+/*******			Yael Estrada 				******/
 
 int main(){
 	int n,s;
