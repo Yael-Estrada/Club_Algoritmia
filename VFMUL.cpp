@@ -1,5 +1,5 @@
-/*********** SPOJ VFMUL-"Very Fast Multiplication"	FFT 	***********/
-/*********** 			Yael Estrada						***********/
+/*********** 		SPOJ VFMUL-"Very Fast Multiplication"	FFT 			***********/
+/*********** 				Yael Estrada					***********/
 
 #include<bits/stdc++.h>
 using namespace std;
