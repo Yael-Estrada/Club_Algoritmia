@@ -4,8 +4,7 @@ typedef pair<int,int> par;
 
 
 /****************  		SPOJ NINJA7-"Two Sequences Problem"	Greedy Algorithm 	****************/
-/**************** 						Yael Estrada							****************/
-
+/**************** 				Yael Estrada					****************/
 int main(){
 	int n,T;
 	cin>>T;
