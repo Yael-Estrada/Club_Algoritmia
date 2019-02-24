@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-/*********** UVA 12405 "Scarecrow" Greedy Algorithm **********/
+/*********** 		UVA 12405 "Scarecrow" Greedy Algorithm 		**********/
 /***********				Yael Estrada			*********/
 
 int main(){

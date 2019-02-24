@@ -1,5 +1,5 @@
-/************ SPOJ POLYMUL-"Polynomial Multiplication"	FFT 	************/
-/***********				Yael Estrada						************/
+/************ 		SPOJ POLYMUL-"Polynomial Multiplication"	FFT 	************/
+/***********				Yael Estrada				************/
 
 #include<bits/stdc++.h>
 using namespace std;

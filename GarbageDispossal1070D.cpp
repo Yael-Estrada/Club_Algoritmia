@@ -2,8 +2,8 @@
 using namespace std;
 typedef long long int lli;
 
-/*********		Codeforces 1070D "Garbage Dispossal" Greedy Algorithm *********/
-/*********							Yael Estrada						*******/
+/*********		Codeforces 1070D "Garbage Dispossal" Greedy Algorithm	 *********/
+/*********			Yael Estrada		  			  *******/
 
 
 int main(){

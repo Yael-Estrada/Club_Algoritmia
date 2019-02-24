@@ -1,5 +1,5 @@
 /***********	Kattis	"K-Inversions"	FFT 	***********/
-/***********			Yael Estrada			***********/
+/***********		Yael Estrada		***********/
 
 #include<bits/stdc++.h>
 using namespace std;
