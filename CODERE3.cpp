@@ -66,13 +66,8 @@ int main(){
 	while(tests--){
 		cin>>N;
 		vector<int> arr(N);
-		int maximo=-1e9,indmx=0;
 		for(int i=0;i<N;i++){
 			cin>>arr[i];
-			if(maximo<arr[i]&&i!=N-1){
-				maximo=arr[i];
-				indmx=i;
-			}
 		}
 
 		
