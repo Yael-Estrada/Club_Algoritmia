@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-/************* 	OmegaUp	"Concierto del Dr. Lira"	DP algorithm 	**********/
-/*************					Yael Estrada						*********/
+/************* 	OmegaUp	"Concierto del Dr. Lira"	DP algorithm 			**********/
+/*************			Yael Estrada						*********/
 
 int mem[55][10005];
 
