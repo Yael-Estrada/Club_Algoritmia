@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-/********** HackerRank "The Coin Change problem"	DP Algorithm ************/
-/**********							Yael Estrada				 ***********/
+/********** HackerRank "The Coin Change problem"	DP Algorithm 		 ************/
+/**********				Yael Estrada				 ***********/
 
 
 int main(){
