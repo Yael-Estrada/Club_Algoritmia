@@ -3,8 +3,8 @@
 using namespace std;
 typedef pair<int,int> par;
 
-/************** 		SPOJ	"The Knapsack Problem"	DP Algorithm *****************/
-/*************							Yael Estrada				 ****************/
+/************** 		SPOJ	"The Knapsack Problem"	DP Algorithm 		*****************/
+/*************					Yael Estrada				****************/
 
 void MergeSort(par* a, int low, int high);
 void Merge(par* a, int low, int high, int mid);
