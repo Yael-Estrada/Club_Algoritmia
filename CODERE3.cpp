@@ -2,7 +2,7 @@
 using namespace std;
 
 /************ 	SPOJ	CODERE3-"CODER EXPRESS 3!!"	DP Algorithm		*************/
-/************						Yael Estrada						************/
+/************				Yael Estrada				************/
 
 int LISD(vector<int> arr,int n){
 vector<int> l(n,0),r(n,0);
